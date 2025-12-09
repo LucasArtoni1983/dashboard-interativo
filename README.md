@@ -2,7 +2,7 @@
 
 Dashboard interativo desenvolvido em Google Looker Studio para análise de performance de campanhas de marketing digital.
 
-![Dashboard](imagens/dashboard-completo.png)
+![Dashboard](docs/dashboard-interativo.pdf)
 
 ## 🎯 Objetivo
 
