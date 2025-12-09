@@ -32,7 +32,7 @@ Criar um dashboard interativo que permita analisar a performance de campanhas mu
 ## 📊 Visualizações
 
 ### Dashboard Completo
-[Link para o dashboard público no Looker Studio](https://lookerstudio.google.com/seu-link)
+[Link para o dashboard público no Looker Studio]([https://lookerstudio.google.com/seu-link](https://lookerstudio.google.com/reporting/8972f4c6-24e2-41d2-97aa-55b436890dd5))
 
 ### Principais Insights
 
